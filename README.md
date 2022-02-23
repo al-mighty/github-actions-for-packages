@@ -1,4 +1,4 @@
-# Tic Tac Toe Game
+# Tic Tac Toe Game1
 
 Let's learn about CD while using GitHub Actions and the GitHub Package Registry!
 
